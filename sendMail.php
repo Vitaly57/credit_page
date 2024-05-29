@@ -1,7 +1,7 @@
 <?php
 session_start();
 $message = "";
-$to = "info@gorodcredita.ru";
+$to = "Vitalii577777@yandex.ru";
 $subject = "Заявка городское кредитное сообщество";
 $name = '';
 $phone = '';
