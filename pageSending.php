@@ -24,7 +24,7 @@
 
         <script>
             setTimeout(function(){
-	          window.location.href = 'index.php'; 
+	          window.location.href = 'index.html'; 
             },2000);
         </script>
     <script src="./main.js"></script>
