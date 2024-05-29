@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 97" width="60" height="97">
+	<title>flag-svg</title>
+	<defs>
+		<image width="36" height="36" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE4IDMxLjVDMjUuNDU1OCAzMS41IDMxLjUgMjUuNDU1OCAzMS41IDE4QzMxLjUgMTAuNTQ0MiAyNS40NTU4IDQuNSAxOCA0LjVDMTAuNTQ0MiA0LjUgNC41IDEwLjU0NDIgNC41IDE4QzQuNSAyNS40NTU4IDEwLjU0NDIgMzEuNSAxOCAzMS41WiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTE4IDQuNVYzMS41IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTggNi43NTA0OUwzMS4zMzkxIDIwLjA4OTYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xOCAxNC42MjZMMjkuMDgzMiAyNS43MDkxIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTggMjIuNTAxTDI1LjAyNzggMjkuNTI4NyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #fd2a5d } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h60v76.8c0 3.8-2.1 7.3-5.5 9l-23.5 11.7-25.2-11.8c-3.6-1.6-5.8-5.2-5.8-9.1z"/>
+		<use id="CircleHalf" href="#img1" transform="matrix(1,0,0,1,12,31)"/>
+	</g>
+</svg>

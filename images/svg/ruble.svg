@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<title>Rectangle 24 (1)</title>
+	<defs>
+		<image  width="110" height="110" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuAQMAAAD8lbS4AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABpJREFUeJxjZEABjKPcUe4od5Q7yh3l0oYLAGw4AG9aodzXAAAAAElFTkSuQmCC"/>
+		<image width="60" height="60" id="img2" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzLjEyNSA0MS4yNUgzMy43NSIgc3Ryb2tlPSIjMkEzRkZEIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMjAuNjI1IDUwLjYyNVY5LjM3NUgzNC42ODc1QzM3LjkxOTggOS4zNzUgNDEuMDE5OCAxMC42NTkgNDMuMzA1NCAxMi45NDQ2QzQ1LjU5MSAxNS4yMzAyIDQ2Ljg3NSAxOC4zMzAyIDQ2Ljg3NSAyMS41NjI1QzQ2Ljg3NSAyNC43OTQ4IDQ1LjU5MSAyNy44OTQ4IDQzLjMwNTQgMzAuMTgwNEM0MS4wMTk4IDMyLjQ2NiAzNy45MTk4IDMzLjc1IDM0LjY4NzUgMzMuNzVIMTMuMTI1IiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="CurrencyRub" href="#img2" transform="matrix(1,0,0,1,25,25)"/>
+</svg>

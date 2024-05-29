@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 97" width="60" height="97">
+	<title>flag-svg</title>
+	<defs>
+		<image width="36" height="36" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIzLjYyNSAzLjM3NUgxMi4zNzVWOUgyMy42MjVWMy4zNzVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMjMuNjI1IDUuNjI1SDI4LjEyNUMyOC40MjM0IDUuNjI1IDI4LjcwOTUgNS43NDM1MyAyOC45MjA1IDUuOTU0NTFDMjkuMTMxNSA2LjE2NTQ4IDI5LjI1IDYuNDUxNjMgMjkuMjUgNi43NVYzMC4zNzVDMjkuMjUgMzAuNjczNCAyOS4xMzE1IDMwLjk1OTUgMjguOTIwNSAzMS4xNzA1QzI4LjcwOTUgMzEuMzgxNSAyOC40MjM0IDMxLjUgMjguMTI1IDMxLjVINy44NzVDNy41NzY2MyAzMS41IDcuMjkwNDggMzEuMzgxNSA3LjA3OTUxIDMxLjE3MDVDNi44Njg1MyAzMC45NTk1IDYuNzUgMzAuNjczNCA2Ljc1IDMwLjM3NVY2Ljc1QzYuNzUgNi40NTE2MyA2Ljg2ODUzIDYuMTY1NDggNy4wNzk1MSA1Ljk1NDUxQzcuMjkwNDggNS43NDM1MyA3LjU3NjYzIDUuNjI1IDcuODc1IDUuNjI1SDEyLjM3NSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTEzLjUgMjEuMzc1SDIyLjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMy41IDE2Ljg3NUgyMi41IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { fill: #fd2a5d } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h60v76.8c0 3.8-2.1 7.3-5.5 9l-23.5 11.7-25.2-11.8c-3.6-1.6-5.8-5.2-5.8-9.1z"/>
+		<use id="ClipboardText" href="#img1" transform="matrix(1,0,0,1,12,31)"/>
+	</g>
+</svg>

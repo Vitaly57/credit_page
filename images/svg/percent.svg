@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<title>Rectangle 24 (1)</title>
+	<defs>
+		<image  width="110" height="110" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuAQMAAAD8lbS4AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABpJREFUeJxjZEABjKPcUe4od5Q7yh3l0oYLAGw4AG9aodzXAAAAAElFTkSuQmCC"/>
+		<image width="60" height="60" id="img2" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQ2Ljg3NSAxMy4xMjVMMTMuMTI1IDQ2Ljg3NSIgc3Ryb2tlPSIjMkEzRkZEIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTcuODEyNSAyNC4zNzVDMjEuNDM2OSAyNC4zNzUgMjQuMzc1IDIxLjQzNjkgMjQuMzc1IDE3LjgxMjVDMjQuMzc1IDE0LjE4ODEgMjEuNDM2OSAxMS4yNSAxNy44MTI1IDExLjI1QzE0LjE4ODEgMTEuMjUgMTEuMjUgMTQuMTg4MSAxMS4yNSAxNy44MTI1QzExLjI1IDIxLjQzNjkgMTQuMTg4MSAyNC4zNzUgMTcuODEyNSAyNC4zNzVaIiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CjxwYXRoIGQ9Ik00Mi4xODc1IDQ4Ljc1QzQ1LjgxMTkgNDguNzUgNDguNzUgNDUuODExOSA0OC43NSA0Mi4xODc1QzQ4Ljc1IDM4LjU2MzEgNDUuODExOSAzNS42MjUgNDIuMTg3NSAzNS42MjVDMzguNTYzMSAzNS42MjUgMzUuNjI1IDM4LjU2MzEgMzUuNjI1IDQyLjE4NzVDMzUuNjI1IDQ1LjgxMTkgMzguNTYzMSA0OC43NSA0Mi4xODc1IDQ4Ljc1WiIgc3Ryb2tlPSIjMkEzRkZEIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Percent" href="#img2" transform="matrix(1,0,0,1,25,25)"/>
+</svg>

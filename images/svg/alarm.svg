@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<title>Rectangle 24 (1)</title>
+	<defs>
+		<image  width="110" height="110" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuAQMAAAD8lbS4AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABpJREFUeJxjZEABjKPcUe4od5Q7yh3l0oYLAGw4AG9aodzXAAAAAElFTkSuQmCC"/>
+		<image width="60" height="60" id="img2" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMwIDE2Ljg3NVYzMEg0My4xMjUiIHN0cm9rZT0iIzJBM0ZGRCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTMwIDUwLjYyNUM0MS4zOTA5IDUwLjYyNSA1MC42MjUgNDEuMzkwOSA1MC42MjUgMzBDNTAuNjI1IDE4LjYwOTEgNDEuMzkwOSA5LjM3NSAzMCA5LjM3NUMxOC42MDkxIDkuMzc1IDkuMzc1IDE4LjYwOTEgOS4zNzUgMzBDOS4zNzUgNDEuMzkwOSAxOC42MDkxIDUwLjYyNSAzMCA1MC42MjVaIiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CjxwYXRoIGQ9Ik00NS45MTAyIDYuMTM1MTlMNTMuODY1MSAxNC4wOTAxIiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik02LjEzNTI1IDE0LjA5MDFMMTQuMDkwMiA2LjEzNTE5IiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Alarm" href="#img2" transform="matrix(1,0,0,1,25,25)"/>
+</svg>

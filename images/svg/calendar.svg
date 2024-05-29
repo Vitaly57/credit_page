@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<title>Rectangle 24 (1)</title>
+	<defs>
+		<image  width="110" height="110" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuAQMAAAD8lbS4AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABpJREFUeJxjZEABjKPcUe4od5Q7yh3l0oYLAGw4AG9aodzXAAAAAElFTkSuQmCC"/>
+		<image width="60" height="60" id="img2" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQ4Ljc1IDkuMzc1SDExLjI1QzEwLjIxNDUgOS4zNzUgOS4zNzUgMTAuMjE0NSA5LjM3NSAxMS4yNVY0OC43NUM5LjM3NSA0OS43ODU1IDEwLjIxNDUgNTAuNjI1IDExLjI1IDUwLjYyNUg0OC43NUM0OS43ODU1IDUwLjYyNSA1MC42MjUgNDkuNzg1NSA1MC42MjUgNDguNzVWMTEuMjVDNTAuNjI1IDEwLjIxNDUgNDkuNzg1NSA5LjM3NSA0OC43NSA5LjM3NVoiIHN0cm9rZT0iIzJBM0ZGRCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQxLjI1IDUuNjI1VjEzLjEyNSIgc3Ryb2tlPSIjMkEzRkZEIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTguNzUgNS42MjVWMTMuMTI1IiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik05LjM3NSAyMC42MjVINTAuNjI1IiBzdHJva2U9IiMyQTNGRkQiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="CalendarBlank" href="#img2" transform="matrix(1,0,0,1,25,25)"/>
+</svg>

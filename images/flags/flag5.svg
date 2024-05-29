@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 97" width="60" height="97">
+	<title>flag-svg</title>
+	<defs>
+		<image width="36" height="36" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI4LjEyNSAzMS41SDcuODczOUM3LjU3NTUzIDMxLjUgNy4yODkzOCAzMS4zODE1IDcuMDc4NDEgMzEuMTcwNUM2Ljg2NzQzIDMwLjk1OTUgNi43NDg5IDMwLjY3MzQgNi43NDg5IDMwLjM3NVY1LjYyNUM2Ljc0ODkgNS4zMjY2MyA2Ljg2NzQzIDUuMDQwNDggNy4wNzg0MSA0LjgyOTUxQzcuMjg5MzggNC42MTg1MyA3LjU3NTUzIDQuNSA3Ljg3MzkgNC41SDIxLjM3NUwyOS4yNSAxMi4zNzVWMzAuMzc1QzI5LjI1IDMwLjUyMjcgMjkuMjIwOSAzMC42NjkgMjkuMTY0NCAzMC44MDU1QzI5LjEwNzggMzAuOTQyIDI5LjAyNSAzMS4wNjYgMjguOTIwNSAzMS4xNzA1QzI4LjgxNiAzMS4yNzUgMjguNjkyIDMxLjM1NzggMjguNTU1NSAzMS40MTQ0QzI4LjQxOSAzMS40NzA5IDI4LjI3MjcgMzEuNSAyOC4xMjUgMzEuNVoiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yMS4zNzUgNC41VjEyLjM3NUgyOS4yNTExIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTQuNjI1IDE4TDIxLjM3NSAyNC43NSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTIxLjM3NSAxOEwxNC42MjUgMjQuNzUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+		.s0 { fill: #fd2a5d } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h60v76.8c0 3.8-2.1 7.3-5.5 9l-23.5 11.7-25.2-11.8c-3.6-1.6-5.8-5.2-5.8-9.1z"/>
+		<use id="FileX" href="#img1" transform="matrix(1,0,0,1,12,31)"/>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 97" width="60" height="97">
+	<title>flag-svg</title>
+	<defs>
+		<image width="108" height="108" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE4IDMxLjUwMDVDMjUuNDU1OCAzMS41MDA1IDMxLjUgMjUuNDU2MyAzMS41IDE4LjAwMDVDMzEuNSAxMC41NDQ2IDI1LjQ1NTggNC41MDA0OSAxOCA0LjUwMDQ5QzEwLjU0NDIgNC41MDA0OSA0LjUgMTAuNTQ0NiA0LjUgMTguMDAwNUM0LjUgMjUuNDU2MyAxMC41NDQyIDMxLjUwMDUgMTggMzEuNTAwNVoiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+CjxwYXRoIGQ9Ik0xNC4wMjI3IDE0LjAyMjlMMjEuOTc3NyAyMS45Nzc5IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { fill: #fd2a5d } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h60v76.8c0 3.8-2.1 7.3-5.5 9l-23.5 11.7-25.2-11.8c-3.6-1.6-5.8-5.2-5.8-9.1z"/>
+		<use id="ProhibitInset" href="#img1" transform="matrix(.333,0,0,.333,12,31)"/>
+	</g>
+</svg>
